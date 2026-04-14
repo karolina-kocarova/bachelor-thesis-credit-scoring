@@ -16,8 +16,8 @@ Notebook je doporučeno spouštět postupně od začátku do konce.
 
 Notebook je primárně určen pro prostředí Kaggle, ale pro statické prohlížení je dostupný také přes GitHub a nbviewer:
 
-- GitHub: [Notebook na GitHubu](https://github.com/karolina666-it/bachelor-thesis-credit-scoring/blob/main/credit-score-classification-model.ipynb)
-- nbviewer: [Notebook v nbvieweru](https://nbviewer.org/github/karolina666-it/bachelor-thesis-credit-scoring/blob/main/credit-score-classification-model.ipynb)
+- GitHub: [Notebook na GitHubu](https://github.com/karolina-kocarova/bachelor-thesis-credit-scoring/blob/main/credit-score-classification-model.ipynb)
+- nbviewer: [Notebook v nbvieweru](https://nbviewer.org/github/karolina-kocarova/bachelor-thesis-credit-scoring/blob/main/credit-score-classification-model.ipynb)
 
 ## Omezení alternativních prostředí
 
@@ -26,3 +26,5 @@ GitHub a nbviewer slouží především ke statickému zobrazení notebooku. Ně
 Zejména sekce **13) Predikce nového žadatele pomocí finálního modelu** a **14) Dávková predikce ze souboru** obsahují interaktivní prvky a mimo prostředí Kaggle nemusí být plně funkční nebo se mohou zobrazovat omezeně.
 
 Z tohoto důvodu je pro úplné ověření funkčnosti notebooku doporučeno použít primárně Kaggle.
+
+> Poznámka: Služba nbviewer může být dočasně nedostupná z důvodu omezení GitHub API. V takovém případě je možné notebook otevřít přímo přes GitHub nebo v doporučeném prostředí Kaggle.
