@@ -27,4 +27,8 @@ Zejména sekce **13) Predikce nového žadatele pomocí finálního modelu** a *
 
 Z tohoto důvodu je pro úplné ověření funkčnosti notebooku doporučeno použít primárně Kaggle.
 
+## Data
+
+Vstupní data nejsou součástí tohoto repozitáře. Pro spuštění notebooku je nutné stáhnout odpovídající dataset z původního veřejného zdroje a nahrát jej do pracovního prostředí ve správném umístění. Data v zipu jsou také k nalezení na školním úložišti: https://vspj-my.sharepoint.com/:f:/g/personal/kocaro03_student_vspj_cz/IgA6LnlmfRhUQqvvZ8jw96ICAUCxB8JikPSWV-HxkX62TkY?e=PIKDJm
+
 > Poznámka: Služba nbviewer může být dočasně nedostupná z důvodu omezení GitHub API. V takovém případě je možné notebook otevřít přímo přes GitHub nebo v doporučeném prostředí Kaggle.
