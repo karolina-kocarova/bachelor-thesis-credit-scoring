@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+ipywidgets
+imbalanced-learn
+umap-learn
+prince
+kmodes
+category-encoders
+openpyxl
+jupyter
+notebook
